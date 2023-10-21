@@ -14,7 +14,7 @@ I am a Tech Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 
 # HealthWebsite
-- :telescope: The aim of this project is to demonstrates the use of GitHub and Microsoft Azure services to deploy a website.
+- :telescope: The aim of this project is to demonstrate the use of GitHub and Microsoft Azure services to deploy a website.
 - Microsoft Azure's "Static Web Apps" service is used for integrating with Git repository and deploying the webite.
 - A static workflow is created in GitHub.
 - The website is successfully deployed.
